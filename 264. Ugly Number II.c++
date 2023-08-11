@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>;
-#include<vector>
+using namespace std;
+#include<vector>;
 class Solution {
 public:
     int nthUglyNumber(int n) {
